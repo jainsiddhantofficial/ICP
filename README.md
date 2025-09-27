@@ -43,9 +43,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jainsiddhantofficial/ICP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0367-valid-perfect-square](https://github.com/jainsiddhantofficial/ICP/tree/master/0367-valid-perfect-square) |
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/jainsiddhantofficial/ICP/tree/master/0367-valid-perfect-square) |
 | [0830-largest-triangle-area](https://github.com/jainsiddhantofficial/ICP/tree/master/0830-largest-triangle-area) |
 ## Geometry
 |  |
