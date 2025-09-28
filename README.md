@@ -12,16 +12,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/jainsiddhantofficial/ICP/tree/master/0239-sliding-window-maximum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jainsiddhantofficial/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0830-largest-triangle-area](https://github.com/jainsiddhantofficial/ICP/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/jainsiddhantofficial/ICP/tree/master/1018-largest-perimeter-triangle) |
 ## Greedy
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jainsiddhantofficial/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1018-largest-perimeter-triangle](https://github.com/jainsiddhantofficial/ICP/tree/master/1018-largest-perimeter-triangle) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jainsiddhantofficial/ICP/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jainsiddhantofficial/ICP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jainsiddhantofficial/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1018-largest-perimeter-triangle](https://github.com/jainsiddhantofficial/ICP/tree/master/1018-largest-perimeter-triangle) |
 ## Queue
 |  |
 | ------- |
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0367-valid-perfect-square](https://github.com/jainsiddhantofficial/ICP/tree/master/0367-valid-perfect-square) |
 | [0830-largest-triangle-area](https://github.com/jainsiddhantofficial/ICP/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/jainsiddhantofficial/ICP/tree/master/1018-largest-perimeter-triangle) |
 ## Geometry
 |  |
 | ------- |
