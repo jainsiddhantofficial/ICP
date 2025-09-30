@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jainsiddhantofficial/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/jainsiddhantofficial/ICP/tree/master/0239-sliding-window-maximum) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/jainsiddhantofficial/ICP/tree/master/1351-replace-the-substring-for-balanced-string) |
 ## Heap (Priority Queue)
@@ -111,5 +112,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jainsiddhantofficial/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/jainsiddhantofficial/ICP/tree/master/1351-replace-the-substring-for-balanced-string) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jainsiddhantofficial/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
