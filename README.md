@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jainsiddhantofficial/ICP/tree/master/0239-sliding-window-maximum) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/jainsiddhantofficial/ICP/tree/master/1351-replace-the-substring-for-balanced-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jainsiddhantofficial/ICP/tree/master/2324-find-triangular-sum-of-an-array) |
+## String
+|  |
+| ------- |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/jainsiddhantofficial/ICP/tree/master/1351-replace-the-substring-for-balanced-string) |
 <!---LeetCode Topics End-->
