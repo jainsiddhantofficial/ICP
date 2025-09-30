@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jainsiddhantofficial/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/jainsiddhantofficial/ICP/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0567-permutation-in-string) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/jainsiddhantofficial/ICP/tree/master/1351-replace-the-substring-for-balanced-string) |
 ## Heap (Priority Queue)
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jainsiddhantofficial/ICP/tree/master/0088-merge-sorted-array) |
+| [0567-permutation-in-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,9 +115,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jainsiddhantofficial/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0567-permutation-in-string) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/jainsiddhantofficial/ICP/tree/master/1351-replace-the-substring-for-balanced-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jainsiddhantofficial/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
