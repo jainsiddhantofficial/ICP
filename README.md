@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/jainsiddhantofficial/ICP/tree/master/0367-valid-perfect-square) |
 | [0830-largest-triangle-area](https://github.com/jainsiddhantofficial/ICP/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/jainsiddhantofficial/ICP/tree/master/1018-largest-perimeter-triangle) |
+| [1642-water-bottles](https://github.com/jainsiddhantofficial/ICP/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jainsiddhantofficial/ICP/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Geometry
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jainsiddhantofficial/ICP/tree/master/0054-spiral-matrix) |
+| [1642-water-bottles](https://github.com/jainsiddhantofficial/ICP/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jainsiddhantofficial/ICP/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Depth-First Search
 |  |
