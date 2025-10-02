@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jainsiddhantofficial/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jainsiddhantofficial/ICP/tree/master/0455-assign-cookies) |
 | [0830-largest-triangle-area](https://github.com/jainsiddhantofficial/ICP/tree/master/0830-largest-triangle-area) |
+| [0917-boats-to-save-people](https://github.com/jainsiddhantofficial/ICP/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/jainsiddhantofficial/ICP/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/jainsiddhantofficial/ICP/tree/master/1046-max-consecutive-ones-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/jainsiddhantofficial/ICP/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/jainsiddhantofficial/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jainsiddhantofficial/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jainsiddhantofficial/ICP/tree/master/0455-assign-cookies) |
+| [0917-boats-to-save-people](https://github.com/jainsiddhantofficial/ICP/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/jainsiddhantofficial/ICP/tree/master/1018-largest-perimeter-triangle) |
 ## Sorting
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/jainsiddhantofficial/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jainsiddhantofficial/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jainsiddhantofficial/ICP/tree/master/0455-assign-cookies) |
+| [0917-boats-to-save-people](https://github.com/jainsiddhantofficial/ICP/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/jainsiddhantofficial/ICP/tree/master/1018-largest-perimeter-triangle) |
 ## Queue
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jainsiddhantofficial/ICP/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/jainsiddhantofficial/ICP/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0567-permutation-in-string) |
+| [0917-boats-to-save-people](https://github.com/jainsiddhantofficial/ICP/tree/master/0917-boats-to-save-people) |
 ## Divide and Conquer
 |  |
 | ------- |
