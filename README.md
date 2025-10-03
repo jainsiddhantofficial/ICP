@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/jainsiddhantofficial/ICP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/jainsiddhantofficial/ICP/tree/master/0239-sliding-window-maximum) |
 | [0406-queue-reconstruction-by-height](https://github.com/jainsiddhantofficial/ICP/tree/master/0406-queue-reconstruction-by-height) |
+| [0407-trapping-rain-water-ii](https://github.com/jainsiddhantofficial/ICP/tree/master/0407-trapping-rain-water-ii) |
 | [0435-non-overlapping-intervals](https://github.com/jainsiddhantofficial/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jainsiddhantofficial/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jainsiddhantofficial/ICP/tree/master/0455-assign-cookies) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jainsiddhantofficial/ICP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/jainsiddhantofficial/ICP/tree/master/0239-sliding-window-maximum) |
+| [0407-trapping-rain-water-ii](https://github.com/jainsiddhantofficial/ICP/tree/master/0407-trapping-rain-water-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/jainsiddhantofficial/ICP/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/jainsiddhantofficial/ICP/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/jainsiddhantofficial/ICP/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/jainsiddhantofficial/ICP/tree/master/0407-trapping-rain-water-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/jainsiddhantofficial/ICP/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/jainsiddhantofficial/ICP/tree/master/0407-trapping-rain-water-ii) |
 ## Union Find
 |  |
 | ------- |
