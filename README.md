@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/jainsiddhantofficial/ICP/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/jainsiddhantofficial/ICP/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/jainsiddhantofficial/ICP/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/jainsiddhantofficial/ICP/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jainsiddhantofficial/ICP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/jainsiddhantofficial/ICP/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/jainsiddhantofficial/ICP/tree/master/0134-gas-station) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/jainsiddhantofficial/ICP/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/jainsiddhantofficial/ICP/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/jainsiddhantofficial/ICP/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/jainsiddhantofficial/ICP/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/jainsiddhantofficial/ICP/tree/master/0407-trapping-rain-water-ii) |
 ## Simulation
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jainsiddhantofficial/ICP/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/jainsiddhantofficial/ICP/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jainsiddhantofficial/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/jainsiddhantofficial/ICP/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/jainsiddhantofficial/ICP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0567-permutation-in-string) |
@@ -181,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/jainsiddhantofficial/ICP/tree/master/0406-queue-reconstruction-by-height) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/jainsiddhantofficial/ICP/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
