@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/jainsiddhantofficial/ICP/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jainsiddhantofficial/ICP/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/jainsiddhantofficial/ICP/tree/master/0072-edit-distance) |
 | [0435-non-overlapping-intervals](https://github.com/jainsiddhantofficial/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/jainsiddhantofficial/ICP/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jainsiddhantofficial/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0072-edit-distance](https://github.com/jainsiddhantofficial/ICP/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/jainsiddhantofficial/ICP/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/jainsiddhantofficial/ICP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
