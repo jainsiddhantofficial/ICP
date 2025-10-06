@@ -191,10 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/jainsiddhantofficial/ICP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jainsiddhantofficial/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0937-online-stock-span](https://github.com/jainsiddhantofficial/ICP/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/jainsiddhantofficial/ICP/tree/master/0084-largest-rectangle-in-histogram) |
+| [0937-online-stock-span](https://github.com/jainsiddhantofficial/ICP/tree/master/0937-online-stock-span) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -209,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/jainsiddhantofficial/ICP/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/jainsiddhantofficial/ICP/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/jainsiddhantofficial/ICP/tree/master/0079-word-search) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/jainsiddhantofficial/ICP/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/jainsiddhantofficial/ICP/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
