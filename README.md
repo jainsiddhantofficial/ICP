@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jainsiddhantofficial/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0071-simplify-path](https://github.com/jainsiddhantofficial/ICP/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/jainsiddhantofficial/ICP/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/jainsiddhantofficial/ICP/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/jainsiddhantofficial/ICP/tree/master/0424-longest-repeating-character-replacement) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/jainsiddhantofficial/ICP/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jainsiddhantofficial/ICP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jainsiddhantofficial/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0937-online-stock-span](https://github.com/jainsiddhantofficial/ICP/tree/master/0937-online-stock-span) |
