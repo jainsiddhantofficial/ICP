@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/jainsiddhantofficial/ICP/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/jainsiddhantofficial/ICP/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/jainsiddhantofficial/ICP/tree/master/1018-largest-perimeter-triangle) |
+| [1022-unique-paths-iii](https://github.com/jainsiddhantofficial/ICP/tree/master/1022-unique-paths-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/jainsiddhantofficial/ICP/tree/master/1046-max-consecutive-ones-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/jainsiddhantofficial/ICP/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1612-avoid-flood-in-the-city](https://github.com/jainsiddhantofficial/ICP/tree/master/1612-avoid-flood-in-the-city) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jainsiddhantofficial/ICP/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/jainsiddhantofficial/ICP/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jainsiddhantofficial/ICP/tree/master/0417-pacific-atlantic-water-flow) |
+| [1022-unique-paths-iii](https://github.com/jainsiddhantofficial/ICP/tree/master/1022-unique-paths-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/jainsiddhantofficial/ICP/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/jainsiddhantofficial/ICP/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/jainsiddhantofficial/ICP/tree/master/0079-word-search) |
+| [1022-unique-paths-iii](https://github.com/jainsiddhantofficial/ICP/tree/master/1022-unique-paths-iii) |
 ## Design
 |  |
 | ------- |
@@ -226,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/jainsiddhantofficial/ICP/tree/master/0937-online-stock-span) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1022-unique-paths-iii](https://github.com/jainsiddhantofficial/ICP/tree/master/1022-unique-paths-iii) |
 <!---LeetCode Topics End-->
