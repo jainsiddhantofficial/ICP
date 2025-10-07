@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/jainsiddhantofficial/ICP/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1612-avoid-flood-in-the-city](https://github.com/jainsiddhantofficial/ICP/tree/master/1612-avoid-flood-in-the-city) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jainsiddhantofficial/ICP/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/jainsiddhantofficial/ICP/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## Greedy
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/jainsiddhantofficial/ICP/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/jainsiddhantofficial/ICP/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/jainsiddhantofficial/ICP/tree/master/1018-largest-perimeter-triangle) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/jainsiddhantofficial/ICP/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## Queue
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/jainsiddhantofficial/ICP/tree/master/0367-valid-perfect-square) |
 | [1046-max-consecutive-ones-iii](https://github.com/jainsiddhantofficial/ICP/tree/master/1046-max-consecutive-ones-iii) |
 | [1612-avoid-flood-in-the-city](https://github.com/jainsiddhantofficial/ICP/tree/master/1612-avoid-flood-in-the-city) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/jainsiddhantofficial/ICP/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## Math
 |  |
 | ------- |
@@ -190,10 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0567-permutation-in-string) |
 | [1612-avoid-flood-in-the-city](https://github.com/jainsiddhantofficial/ICP/tree/master/1612-avoid-flood-in-the-city) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/jainsiddhantofficial/ICP/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/jainsiddhantofficial/ICP/tree/master/1046-max-consecutive-ones-iii) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/jainsiddhantofficial/ICP/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## Stack
 |  |
 | ------- |
@@ -233,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-unique-paths-iii](https://github.com/jainsiddhantofficial/ICP/tree/master/1022-unique-paths-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/jainsiddhantofficial/ICP/tree/master/2334-number-of-flowers-in-full-bloom) |
 <!---LeetCode Topics End-->
