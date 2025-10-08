@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jainsiddhantofficial/ICP/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/jainsiddhantofficial/ICP/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/jainsiddhantofficial/ICP/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/jainsiddhantofficial/ICP/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/jainsiddhantofficial/ICP/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0567-permutation-in-string) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/jainsiddhantofficial/ICP/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jainsiddhantofficial/ICP/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/jainsiddhantofficial/ICP/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jainsiddhantofficial/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/jainsiddhantofficial/ICP/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/jainsiddhantofficial/ICP/tree/master/0937-online-stock-span) |
@@ -248,9 +250,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jainsiddhantofficial/ICP/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/jainsiddhantofficial/ICP/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/jainsiddhantofficial/ICP/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/jainsiddhantofficial/ICP/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/jainsiddhantofficial/ICP/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
