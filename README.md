@@ -242,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/jainsiddhantofficial/ICP/tree/master/2334-number-of-flowers-in-full-bloom) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/jainsiddhantofficial/ICP/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
