@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jainsiddhantofficial/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0319-bulb-switcher](https://github.com/jainsiddhantofficial/ICP/tree/master/0319-bulb-switcher) |
+| [0365-water-and-jug-problem](https://github.com/jainsiddhantofficial/ICP/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/jainsiddhantofficial/ICP/tree/master/0367-valid-perfect-square) |
 | [0830-largest-triangle-area](https://github.com/jainsiddhantofficial/ICP/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/jainsiddhantofficial/ICP/tree/master/1018-largest-perimeter-triangle) |
@@ -165,11 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/jainsiddhantofficial/ICP/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/jainsiddhantofficial/ICP/tree/master/0200-number-of-islands) |
+| [0365-water-and-jug-problem](https://github.com/jainsiddhantofficial/ICP/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jainsiddhantofficial/ICP/tree/master/0417-pacific-atlantic-water-flow) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/jainsiddhantofficial/ICP/tree/master/0200-number-of-islands) |
+| [0365-water-and-jug-problem](https://github.com/jainsiddhantofficial/ICP/tree/master/0365-water-and-jug-problem) |
 | [0407-trapping-rain-water-ii](https://github.com/jainsiddhantofficial/ICP/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jainsiddhantofficial/ICP/tree/master/0417-pacific-atlantic-water-flow) |
 ## Union Find
