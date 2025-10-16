@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/jainsiddhantofficial/ICP/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jainsiddhantofficial/ICP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/jainsiddhantofficial/ICP/tree/master/0733-flood-fill) |
+| [1005-univalued-binary-tree](https://github.com/jainsiddhantofficial/ICP/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/jainsiddhantofficial/ICP/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jainsiddhantofficial/ICP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/jainsiddhantofficial/ICP/tree/master/0733-flood-fill) |
+| [1005-univalued-binary-tree](https://github.com/jainsiddhantofficial/ICP/tree/master/1005-univalued-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -284,4 +286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/jainsiddhantofficial/ICP/tree/master/0319-bulb-switcher) |
+## Tree
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/jainsiddhantofficial/ICP/tree/master/1005-univalued-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/jainsiddhantofficial/ICP/tree/master/1005-univalued-binary-tree) |
 <!---LeetCode Topics End-->
