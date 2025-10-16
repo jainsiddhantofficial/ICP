@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/jainsiddhantofficial/ICP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/jainsiddhantofficial/ICP/tree/master/0733-flood-fill) |
 | [1005-univalued-binary-tree](https://github.com/jainsiddhantofficial/ICP/tree/master/1005-univalued-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/jainsiddhantofficial/ICP/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/jainsiddhantofficial/ICP/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/jainsiddhantofficial/ICP/tree/master/0733-flood-fill) |
 | [1005-univalued-binary-tree](https://github.com/jainsiddhantofficial/ICP/tree/master/1005-univalued-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/jainsiddhantofficial/ICP/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -290,8 +292,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1005-univalued-binary-tree](https://github.com/jainsiddhantofficial/ICP/tree/master/1005-univalued-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/jainsiddhantofficial/ICP/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1005-univalued-binary-tree](https://github.com/jainsiddhantofficial/ICP/tree/master/1005-univalued-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/jainsiddhantofficial/ICP/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 <!---LeetCode Topics End-->
