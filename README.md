@@ -301,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1005-univalued-binary-tree](https://github.com/jainsiddhantofficial/ICP/tree/master/1005-univalued-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/jainsiddhantofficial/ICP/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/jainsiddhantofficial/ICP/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
