@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/jainsiddhantofficial/ICP/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/jainsiddhantofficial/ICP/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/jainsiddhantofficial/ICP/tree/master/0917-boats-to-save-people) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/jainsiddhantofficial/ICP/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/jainsiddhantofficial/ICP/tree/master/1018-largest-perimeter-triangle) |
 | [1022-unique-paths-iii](https://github.com/jainsiddhantofficial/ICP/tree/master/1022-unique-paths-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/jainsiddhantofficial/ICP/tree/master/1046-max-consecutive-ones-iii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/jainsiddhantofficial/ICP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0567-permutation-in-string) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/jainsiddhantofficial/ICP/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/jainsiddhantofficial/ICP/tree/master/1612-avoid-flood-in-the-city) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/jainsiddhantofficial/ICP/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/jainsiddhantofficial/ICP/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
