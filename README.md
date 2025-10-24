@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/jainsiddhantofficial/ICP/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/jainsiddhantofficial/ICP/tree/master/1127-last-stone-weight) |
 | [1612-avoid-flood-in-the-city](https://github.com/jainsiddhantofficial/ICP/tree/master/1612-avoid-flood-in-the-city) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/jainsiddhantofficial/ICP/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/jainsiddhantofficial/ICP/tree/master/2122-count-special-quadruplets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jainsiddhantofficial/ICP/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jainsiddhantofficial/ICP/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0567-permutation-in-string) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jainsiddhantofficial/ICP/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/jainsiddhantofficial/ICP/tree/master/1612-avoid-flood-in-the-city) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/jainsiddhantofficial/ICP/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/jainsiddhantofficial/ICP/tree/master/2122-count-special-quadruplets) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/jainsiddhantofficial/ICP/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/jainsiddhantofficial/ICP/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2122-count-special-quadruplets](https://github.com/jainsiddhantofficial/ICP/tree/master/2122-count-special-quadruplets) |
+## Counting
+|  |
+| ------- |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/jainsiddhantofficial/ICP/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
