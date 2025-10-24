@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0567-permutation-in-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0567-permutation-in-string) |
+| [0889-buddy-strings](https://github.com/jainsiddhantofficial/ICP/tree/master/0889-buddy-strings) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/jainsiddhantofficial/ICP/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jainsiddhantofficial/ICP/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/jainsiddhantofficial/ICP/tree/master/0697-degree-of-an-array) |
+| [0889-buddy-strings](https://github.com/jainsiddhantofficial/ICP/tree/master/0889-buddy-strings) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/jainsiddhantofficial/ICP/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/jainsiddhantofficial/ICP/tree/master/1612-avoid-flood-in-the-city) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/jainsiddhantofficial/ICP/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
