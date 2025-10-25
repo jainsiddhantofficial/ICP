@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/jainsiddhantofficial/ICP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/jainsiddhantofficial/ICP/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jainsiddhantofficial/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/jainsiddhantofficial/ICP/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/jainsiddhantofficial/ICP/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/jainsiddhantofficial/ICP/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/jainsiddhantofficial/ICP/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/jainsiddhantofficial/ICP/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
