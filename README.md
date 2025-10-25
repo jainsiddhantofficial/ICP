@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/jainsiddhantofficial/ICP/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/jainsiddhantofficial/ICP/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/jainsiddhantofficial/ICP/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/jainsiddhantofficial/ICP/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/jainsiddhantofficial/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jainsiddhantofficial/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jainsiddhantofficial/ICP/tree/master/0455-assign-cookies) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/jainsiddhantofficial/ICP/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/jainsiddhantofficial/ICP/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/jainsiddhantofficial/ICP/tree/master/0079-word-search) |
+| [0402-remove-k-digits](https://github.com/jainsiddhantofficial/ICP/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/jainsiddhantofficial/ICP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0467-unique-substrings-in-wraparound-string) |
@@ -252,11 +254,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/jainsiddhantofficial/ICP/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/jainsiddhantofficial/ICP/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/jainsiddhantofficial/ICP/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/jainsiddhantofficial/ICP/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/jainsiddhantofficial/ICP/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/jainsiddhantofficial/ICP/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/jainsiddhantofficial/ICP/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/jainsiddhantofficial/ICP/tree/master/0937-online-stock-span) |
 ## Binary Indexed Tree
 |  |
