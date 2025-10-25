@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jainsiddhantofficial/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/jainsiddhantofficial/ICP/tree/master/0227-basic-calculator-ii) |
 | [0319-bulb-switcher](https://github.com/jainsiddhantofficial/ICP/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/jainsiddhantofficial/ICP/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/jainsiddhantofficial/ICP/tree/master/0367-valid-perfect-square) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/jainsiddhantofficial/ICP/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/jainsiddhantofficial/ICP/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/jainsiddhantofficial/ICP/tree/master/0079-word-search) |
+| [0227-basic-calculator-ii](https://github.com/jainsiddhantofficial/ICP/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/jainsiddhantofficial/ICP/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/jainsiddhantofficial/ICP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/jainsiddhantofficial/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/jainsiddhantofficial/ICP/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/jainsiddhantofficial/ICP/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/jainsiddhantofficial/ICP/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/jainsiddhantofficial/ICP/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/jainsiddhantofficial/ICP/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/jainsiddhantofficial/ICP/tree/master/0735-asteroid-collision) |
