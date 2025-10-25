@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/jainsiddhantofficial/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jainsiddhantofficial/ICP/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jainsiddhantofficial/ICP/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/jainsiddhantofficial/ICP/tree/master/0496-next-greater-element-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/jainsiddhantofficial/ICP/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/jainsiddhantofficial/ICP/tree/master/0697-degree-of-an-array) |
 | [0733-flood-fill](https://github.com/jainsiddhantofficial/ICP/tree/master/0733-flood-fill) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jainsiddhantofficial/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/jainsiddhantofficial/ICP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/jainsiddhantofficial/ICP/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/jainsiddhantofficial/ICP/tree/master/0697-degree-of-an-array) |
 | [0889-buddy-strings](https://github.com/jainsiddhantofficial/ICP/tree/master/0889-buddy-strings) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/jainsiddhantofficial/ICP/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/jainsiddhantofficial/ICP/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/jainsiddhantofficial/ICP/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/jainsiddhantofficial/ICP/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/jainsiddhantofficial/ICP/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/jainsiddhantofficial/ICP/tree/master/0937-online-stock-span) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/jainsiddhantofficial/ICP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/jainsiddhantofficial/ICP/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/jainsiddhantofficial/ICP/tree/master/0496-next-greater-element-i) |
 | [0883-car-fleet](https://github.com/jainsiddhantofficial/ICP/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/jainsiddhantofficial/ICP/tree/master/0937-online-stock-span) |
 ## Binary Indexed Tree
