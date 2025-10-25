@@ -1,0 +1,42 @@
+class Solution {
+    // 🧱 Our little block counter - remembers which character and how many we have
+    static class CharCount {
+        char character;  // Which letter we're tracking
+        int count;       // How many in a row we've seen
+        
+        CharCount(char c, int count) {
+            this.character = c;
+            this.count = count;
+        }
+    }
+
+    public String removeDuplicates(String s, int k) {
+        // 🎪 Our magical stacking arena (we'll put blocks here)
+        Deque<CharCount> stack = new ArrayDeque<>();
+
+        // 🔄 Let's go through each character in the string
+        for (char c : s.toCharArray()) {
+            // 🤔 Check if top block matches our current character
+            if (!stack.isEmpty() && stack.peek().character == c) {
+                stack.peek().count++;  // Just add to the count - same color!
+            } else {
+                stack.push(new CharCount(c, 1));  // New color? New block!
+            }
+            
+            // ✨ MAGIC CHECK: Do we have K identical blocks?
+            if (!stack.isEmpty() && stack.peek().count == k) {
+                stack.pop();  // POOF! They disappear! 🪄
+            }
+        }
+
+        // 🏗️ Now let's see what's left after all the magic
+        StringBuilder result = new StringBuilder();
+        while (!stack.isEmpty()) {
+            CharCount cc = stack.removeLast();  // Take from bottom (reverse order)
+            // Add each character the number of times it appears
+            result.append(String.valueOf(cc.character).repeat(cc.count));
+        }
+        
+        return result.toString();  // 🎉 Here's our final tower!
+    }
+}
