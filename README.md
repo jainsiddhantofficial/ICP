@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/jainsiddhantofficial/ICP/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/jainsiddhantofficial/ICP/tree/master/0697-degree-of-an-array) |
 | [0733-flood-fill](https://github.com/jainsiddhantofficial/ICP/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/jainsiddhantofficial/ICP/tree/master/0735-asteroid-collision) |
 | [0830-largest-triangle-area](https://github.com/jainsiddhantofficial/ICP/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/jainsiddhantofficial/ICP/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/jainsiddhantofficial/ICP/tree/master/0917-boats-to-save-people) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jainsiddhantofficial/ICP/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/jainsiddhantofficial/ICP/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/jainsiddhantofficial/ICP/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jainsiddhantofficial/ICP/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/jainsiddhantofficial/ICP/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/jainsiddhantofficial/ICP/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/jainsiddhantofficial/ICP/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/jainsiddhantofficial/ICP/tree/master/0402-remove-k-digits) |
+| [0735-asteroid-collision](https://github.com/jainsiddhantofficial/ICP/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/jainsiddhantofficial/ICP/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
