@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/jainsiddhantofficial/ICP/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/jainsiddhantofficial/ICP/tree/master/0079-word-search) |
 | [0227-basic-calculator-ii](https://github.com/jainsiddhantofficial/ICP/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/jainsiddhantofficial/ICP/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/jainsiddhantofficial/ICP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/jainsiddhantofficial/ICP/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/jainsiddhantofficial/ICP/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/jainsiddhantofficial/ICP/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/jainsiddhantofficial/ICP/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/jainsiddhantofficial/ICP/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/jainsiddhantofficial/ICP/tree/master/0883-car-fleet) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/jainsiddhantofficial/ICP/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/jainsiddhantofficial/ICP/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0394-decode-string) |
 ## Brainteaser
 |  |
 | ------- |
