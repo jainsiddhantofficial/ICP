@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0567-permutation-in-string](https://github.com/jainsiddhantofficial/ICP/tree/master/0567-permutation-in-string) |
 | [0889-buddy-strings](https://github.com/jainsiddhantofficial/ICP/tree/master/0889-buddy-strings) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jainsiddhantofficial/ICP/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/jainsiddhantofficial/ICP/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jainsiddhantofficial/ICP/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/jainsiddhantofficial/ICP/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/jainsiddhantofficial/ICP/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/jainsiddhantofficial/ICP/tree/master/0937-online-stock-span) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/jainsiddhantofficial/ICP/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
