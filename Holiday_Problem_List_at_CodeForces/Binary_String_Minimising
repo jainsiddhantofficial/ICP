@@ -1,0 +1,31 @@
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int q = sc.nextInt();
+
+        while (q-- > 0) {
+            int n = sc.nextInt();
+            long k = sc.nextLong();
+            String s = sc.next();
+            char[] arr = s.toCharArray();
+
+            int zerosMoved = 0; // how many zeros already placed at front
+            for (int i = 0; i < n; i++) {
+                if (arr[i] == '0') {
+                    long canMove = Math.min(k, i - zerosMoved);
+                    k -= canMove;
+
+                    // move current '0' left by canMove positions
+                    arr[i] = '1';
+                    arr[(int)(i - canMove)] = '0';
+                    zerosMoved++;
+                }
+                if (k == 0) break;
+            }
+
+            System.out.println(new String(arr));
+        }
+    }
+}
