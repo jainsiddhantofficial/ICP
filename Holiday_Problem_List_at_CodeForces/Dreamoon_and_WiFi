@@ -1,0 +1,50 @@
+import java.util.*;
+
+public class DreamoonProbability {
+    
+    // Helper method to compute factorial
+    static long factorial(int n) {
+        long res = 1;
+        for (int i = 2; i <= n; i++) res *= i;
+        return res;
+    }
+    
+    // Helper method to compute nCr
+    static long nCr(int n, int r) {
+        if (r < 0 || r > n) return 0;
+        return factorial(n) / (factorial(r) * factorial(n - r));
+    }
+    
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String s1 = sc.next();
+        String s2 = sc.next();
+        sc.close();
+        
+        int target = 0;
+        for (char c : s1.toCharArray()) {
+            if (c == '+') target++;
+            else target--;
+        }
+        
+        int current = 0;
+        int unknowns = 0;
+        for (char c : s2.toCharArray()) {
+            if (c == '+') current++;
+            else if (c == '-') current--;
+            else unknowns++;
+        }
+        
+        int diff = target - current;
+        // Number of '+' needed among unknowns to reach target
+        int plusNeeded = (diff + unknowns) / 2;
+        
+        double probability = 0.0;
+        // Check if it's possible to reach target
+        if ((diff + unknowns) % 2 == 0 && plusNeeded >= 0 && plusNeeded <= unknowns) {
+            probability = (double) nCr(unknowns, plusNeeded) / Math.pow(2, unknowns);
+        }
+        
+        System.out.printf("%.12f\n", probability);
+    }
+}
