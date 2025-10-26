@@ -1,0 +1,49 @@
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int t = sc.nextInt();
+
+        while (t-- > 0) {
+            int n = sc.nextInt();
+            int k = sc.nextInt();
+            int[] a = new int[n];
+            for (int i = 0; i < n; i++) {
+                a[i] = sc.nextInt();
+            }
+
+            int[] peak = new int[n];
+            for (int i = 1; i < n - 1; i++) {
+                if (a[i - 1] < a[i] && a[i] > a[i + 1]) {
+                    peak[i] = 1;
+                }
+            }
+
+            // prefix sum of peaks
+            int[] prefix = new int[n];
+            for (int i = 1; i < n; i++) {
+                prefix[i] = prefix[i - 1] + peak[i];
+            }
+
+            int maxPeaks = -1;
+            int leftIndex = 0;
+
+            // sliding window of length k
+            for (int l = 0; l + k - 1 < n; l++) {
+                int r = l + k - 1;
+                // peaks are only counted from (l+1) to (r-1)
+                int count = prefix[r - 1] - prefix[l];
+                if (count > maxPeaks) {
+                    maxPeaks = count;
+                    leftIndex = l;
+                }
+            }
+
+            // number of parts = peaks + 1
+            System.out.println((maxPeaks + 1) + " " + (leftIndex + 1));
+        }
+
+        sc.close();
+    }
+}
