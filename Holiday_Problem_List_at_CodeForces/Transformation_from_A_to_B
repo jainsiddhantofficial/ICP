@@ -1,0 +1,35 @@
+import java.util.*;
+
+public class TransformNumber {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        long a = sc.nextLong();
+        long b = sc.nextLong();
+        sc.close();
+
+        List<Long> sequence = new ArrayList<>();
+        sequence.add(b);
+
+        while (b > a) {
+            if (b % 2 == 0) {
+                b /= 2;
+            } else if (b % 10 == 1) {
+                b = (b - 1) / 10;
+            } else {
+                break; // cannot reverse anymore
+            }
+            sequence.add(b);
+        }
+
+        if (b != a) {
+            System.out.println("NO");
+        } else {
+            System.out.println("YES");
+            Collections.reverse(sequence);
+            System.out.println(sequence.size());
+            for (long num : sequence) {
+                System.out.print(num + " ");
+            }
+        }
+    }
+}
