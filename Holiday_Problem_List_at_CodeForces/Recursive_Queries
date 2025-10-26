@@ -1,0 +1,46 @@
+import java.util.*;
+
+public class Main {
+    static int MAX = 1000000;
+    static int[] g = new int[MAX + 1];
+    static int[][] prefix = new int[10][MAX + 1];
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int Q = sc.nextInt();
+
+        precompute();
+
+        StringBuilder sb = new StringBuilder();
+        while (Q-- > 0) {
+            int l = sc.nextInt();
+            int r = sc.nextInt();
+            int k = sc.nextInt();
+            sb.append(prefix[k][r] - prefix[k][l - 1]).append("\n");
+        }
+
+        System.out.print(sb);
+    }
+
+    static void precompute() {
+        for (int i = 1; i <= 9; i++) g[i] = i;
+
+        for (int i = 10; i <= MAX; i++) {
+            int prod = 1, temp = i;
+            while (temp > 0) {
+                int d = temp % 10;
+                if (d != 0) prod *= d;
+                temp /= 10;
+            }
+            g[i] = g[prod];  // recursive-like effect
+        }
+
+        // prefix counts for each k in [1..9]
+        for (int i = 1; i <= MAX; i++) {
+            for (int k = 1; k <= 9; k++) {
+                prefix[k][i] = prefix[k][i - 1];
+            }
+            prefix[g[i]][i]++;
+        }
+    }
+}
