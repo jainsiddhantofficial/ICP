@@ -1,0 +1,26 @@
+import java.util.*;
+
+public class Main {
+    static int maxBeauty(String s, int k, char ch) {
+        int left = 0, maxLen = 0, countDiff = 0;
+        for (int right = 0; right < s.length(); right++) {
+            if (s.charAt(right) != ch) countDiff++;
+            while (countDiff > k) {
+                if (s.charAt(left) != ch) countDiff--;
+                left++;
+            }
+            maxLen = Math.max(maxLen, right - left + 1);
+        }
+        return maxLen;
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int k = sc.nextInt();
+        String s = sc.next();
+
+        int res = Math.max(maxBeauty(s, k, 'a'), maxBeauty(s, k, 'b'));
+        System.out.println(res);
+    }
+}
